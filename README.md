@@ -30,7 +30,7 @@ O objetivo é realizar a validação de respostas, métricas de performance e ge
 ---
 
 ## 📁 Estrutura do projeto
-´´´
+---
 k6-jokeapi-test/
 ├─ scripts/
 │ └─ jokeapi_test.js # Script principal do K6
@@ -39,7 +39,7 @@ k6-jokeapi-test/
 │ └─ jokeapi_results.json
 ├─ README.md # Este arquivo
 └─ .gitignore # Ignora results/ e node_modules/
-´´´
+---
 
 ---
 
